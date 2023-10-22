@@ -71,7 +71,7 @@
 
 # [대표이미지] <a name = '3'></a>
 
-<img src="./img/main2.png">
+<img src="./img/main2.PNG">
 
 <br><br>
 
