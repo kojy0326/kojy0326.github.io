@@ -174,7 +174,14 @@ PC용으로 개발, 저사양으로도 플레이 할 수 있도록 개발할 예
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|펭귄 포모나|<img src="./img/괴짜펭귄.PNG" height ="300">|
+|1|펭귄 포모나|<img src="./img/펭귄포모나.PNG" height="300">|
+|2|촌장 도널드|<img src="./img/펭귄도날드.PNG" height="300">|
+|3|펭귄 주민|<img src="./img/펭귄주민.PNG" height="300">|
+|4|웅|<img src="./img/북극곰.PNG" height="300">|
+|5|메탄 가스|<img src="./img/메탄.PNG" height="300">|
+|6|이산화탄소|<img src="./img/CO2.PNG" height="300">|
+|7|이산화질소|<img src="./img/NO2.PNG" height="300">|
+|8|인간|<img src="./img/Human.PNG" height="300">|
 |9|고철 더미|<img src="./img/고철더미.png" height="300">|
 |10|플라스틱|<img src="./img/플라스틱.png" height="300">|
 |11|쓰레기|<img src="./img/쓰레기.png" height="300">|
