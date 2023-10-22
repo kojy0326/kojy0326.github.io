@@ -60,7 +60,7 @@
 # [관련 이미지 & 동영상] <a name = '2'></a>
 
 - 이미지  
-  <img src="./img/관련이미지.PNG">
+  <img src="./img/관련이미지.png">
 
   
 - 동영상 <br>
@@ -71,7 +71,7 @@
 
 # [대표이미지] <a name = '3'></a>
 
-<img src="./img/main2.PNG">
+<img src="./img/main2.png">
 
 <br><br>
 
