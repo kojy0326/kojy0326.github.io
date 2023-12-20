@@ -73,7 +73,7 @@
 
 # [대표이미지] <a name = '3'></a>
 
-<img src="./img/main2.PNG">
+<img src="./img/대표이미지.png">
 
 <br><br>
 
