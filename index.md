@@ -189,9 +189,9 @@ PC용으로 개발, 저사양으로도 플레이 할 수 있도록 개발할 예
 |11|쓰레기|<img src="./img/쓰레기.png" height="300">|
 |12|병|<img src="./img/병.png" height="300">|
 |13|무기|<img src="./img/방망이.png" height="300">|
-|14|인벤토리|<img src="./img/인벤토리.png" width="500">|
-|15|수집품|<img src="./img/재활용용품보관.png" width="500">|
-|16|호감도|<img src="./img/호감도수치.png" width="500">|
+|14|재활용센터|<img src="./img/재활용센터.png" height="300">|
+|15|재활용센터 내부|<img src="./img/공장내부.png" height="300">|
+|16|수집품|<img src="./img/재활용용품보관.png" width="500">|
 |17|지구온난화 수치|<img src="./img/지구온난화수치.png" width="500">|
 
 <br>
