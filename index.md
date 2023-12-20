@@ -194,6 +194,7 @@ PC용으로 개발, 저사양으로도 플레이 할 수 있도록 개발할 예
 |15|재활용센터 내부|<img src="./img/공장내부.PNG" height="300">|
 |15|주민 집|<img src="./img/주민집들.PNG" height="300">|
 |15|괴짜펭귄 집|<img src="./img/괴짜펭귄집.PNG" height="300">|
+|15|배경|<img src="./img/맵전경.PNG" height="300">|
 |16|수집품|<img src="./img/재활용용품보관.png" width="500">|
 |17|지구온난화 수치|<img src="./img/지구온난화수치.png" width="500">|
 
