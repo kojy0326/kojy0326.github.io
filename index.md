@@ -171,12 +171,12 @@ PC용으로 개발, 저사양으로도 플레이 할 수 있도록 개발할 예
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|펭귄 포모나|<img src="./img/괴짜펭귄.PNG" height="300">|
-|2|촌장 도널드|<img src="./img/할아버지펭귄.PNG" height="300">|
+|1|펭귄 포모나|<img src="./img/괴짜펭귄.png" height="300">|
+|2|촌장 도널드|<img src="./img/할아버지펭귄.png" height="300">|
 |3|펭귄 주민|<img src="./img/펭귄주민.png" height="300">|
-|4|웅|<img src="./img/북극곰.PNG" height="300">|
-|5|메탄 가스|<img src="./img/메탄.PNG" height="300">|
-|6|이산화탄소|<img src="./img/이산화질소.PNG" height="300">|
+|4|웅|<img src="./img/북극곰.png" height="300">|
+|5|메탄 가스|<img src="./img/메탄.png" height="300">|
+|6|이산화탄소|<img src="./img/이산화질소.png" height="300">|
 |7|인간|<img src="./img/인간쓰레기.PNG" height="300">|
 |8|보스|<img src="./img/보스.PNG" height="300">|
 |9|고철 더미|<img src="./img/고철더미.png" height="300">|
@@ -420,7 +420,7 @@ PC용으로 개발, 저사양으로도 플레이 할 수 있도록 개발할 예
 
 ## 7-3. 키보드 이벤트에 대한 흐름도 <a name = '73'></a>
 
-<img src="./img/키보드이벤트에대한흐름도.drawio.png">
+<img src="./img/키보드이벤트에대한흐름도.png">
 
 <br>
 
